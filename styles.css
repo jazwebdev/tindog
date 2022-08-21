@@ -86,3 +86,35 @@ p {
     text-align: center;
     padding: 5%;
 }
+
+/* TESTIOMONIAL */
+
+#testimonials {
+    padding: 7% 15%;
+    background-color: #ef8172;
+    color:white;
+    text-align: center;
+}
+
+h2 {
+    font-size: 3rem;
+    line-height: 1.5;
+    /* font-family: "Montserrat"; */
+}
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.press-image {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
