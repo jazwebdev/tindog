@@ -17,6 +17,7 @@ h1 {
 
 body {
     font-family:'Montserrat', sans-serif;
+    
 }
 
 /* NAVIGATION BAR */
@@ -52,4 +53,36 @@ body {
 .title-image {
     width: 60%;
     transform: rotate(20deg);
+}
+
+h3 {
+    font-size: 1.5rem;
+    font-family: 'Montserrat';
+    
+}
+
+p {
+    color: #8f8f8f;
+}
+
+.logo {
+    color: #ef8172;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    
+}
+
+.logo:hover {
+    color: #ff4c68;
+}
+
+/* FEATURES SECTION */
+
+#features {
+    padding: 7% 15%;
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
 }
