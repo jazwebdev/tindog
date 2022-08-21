@@ -22,7 +22,7 @@ body {
 /* NAVIGATION BAR */
 
 .navbar {
-    padding-bottom:4.5rem;
+    padding: 0 0 4.5rem;
 }
 
 .navbar-brand {
@@ -33,4 +33,10 @@ body {
 
 .nav-items {
     padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+    
 }
